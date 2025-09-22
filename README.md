@@ -1,20 +1,31 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anvin+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI+Engineer;Building+the+Future+with+Code;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=🚀+Welcome+to+Anvin's+Universe+🚀;🤖+Aspiring+ML+Engineer+%7C+Prompt+Engineer;🧠+AI+Innovator+%7C+Healthcare+Revolutionary;⚡+Building+the+Future+with+Intelligence;🌟+Always+Learning%2C+Always+Evolving" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=anvin&label=Profile%20views&color=6366F1&style=flat)
-  ![GitHub followers](https://img.shields.io/github/followers/anvin?label=Follow&style=social)
-  ![GitHub User's stars](https://img.shields.io/github/stars/anvin?label=Stars&style=social)
+  ![Profile Views](https://komarev.com/ghpvc/?username=anvin&label=Profile%20views&color=00D4FF&style=for-the-badge)
+  ![GitHub followers](https://img.shields.io/github/followers/anvin?label=Follow&style=for-the-badge&color=00D4FF)
+  ![GitHub User's stars](https://img.shields.io/github/stars/anvin?label=Stars&style=for-the-badge&color=00D4FF)
+  ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)
   
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Anvin&fontSize=80&fontAlignY=40&desc=Developer%20%7C%20AI%20Engineer%20%7C%20Entrepreneur&descAlignY=60&descAlign=center&stroke=6366F1&strokeWidth=2" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,8,10&height=350&section=header&text=ANVIN+SHIBU&fontSize=90&fontAlignY=40&desc=ML+Engineer+%7C+Prompt+Engineer+%7C+AI+Innovator&descAlignY=70&descAlign=center&stroke=00D4FF&strokeWidth=3&animation=twinkling" alt="Header" />
 </div>
+
+## 🎯 Mission Statement
+
+<div align="center">
+
+> *"Transforming healthcare through AI, one algorithm at a time. Building intelligent systems that don't just predict the future—they create it."*
+
+</div>
+
+---
 
 ## 🚀 About Me
 
@@ -22,232 +33,214 @@
 
 ```mermaid
 graph TD
-    A[🎓 Computer Science Student] --> B[⚡ Nexoris.io Founder]
-    B --> C[🤖 AI/ML Engineer]
-    C --> D[🌍 Global Expansion]
-    D --> E[🚀 Building Tomorrow]
+    A[🎓 Computer Science Student<br/>SREC, Coimbatore] --> B[🤖 ML Engineer<br/>Bumblebee.inc]
+    B --> C[🏥 Healthcare AI<br/>Aether Med Startup]
+    C --> D[🌍 Global Impact<br/>Atlanta, Georgia]
+    D --> E[🚀 Future Vision<br/>AI Revolution]
     
-    style A fill:#6366F1
-    style B fill:#8B5CF6
-    style C fill:#A855F7
-    style D fill:#C084FC
-    style E fill:#DDD6FE
+    style A fill:#00D4FF,stroke:#fff,stroke-width:2px,color:#000
+    style B fill:#FF6B6B,stroke:#fff,stroke-width:2px,color:#fff
+    style C fill:#4ECDC4,stroke:#fff,stroke-width:2px,color:#000
+    style D fill:#45B7D1,stroke:#fff,stroke-width:2px,color:#fff
+    style E fill:#96CEB4,stroke:#fff,stroke-width:2px,color:#000
 ```
 
 </div>
 
-- 🎓 **Computer Science** student at Sri Ramakrishna Engineering College, Coimbatore
-- ⚡ **Founder** of [Nexoris.io](https://nexoris.io) - AI-driven solutions for healthcare, legal, and productivity
-- 🤖 **AI Engineer** passionate about Generative AI, ML, and offline-first applications
-- 🌍 **Expanding globally** - Australia bound 🇦🇺
-- 💡 **Philosophy**: Build fast, ship faster, iterate always
+- 🎓 **Computer Science** student at Sri Ramakrishna Engineering College (2022-2026)
+- 🤖 **Aspiring ML Engineer** with expertise in Prompt Engineering and Healthcare AI
+- 🏥 **Healthcare Innovator** - Leading Aether Med startup revolutionizing telemedicine
+- 🌍 **Global Perspective** - Studied in Mexico, working from Atlanta, Georgia
+- 🏆 **Student Leader** - President of Student Council (2024-2026)
+- 🧠 **AI Specialist** - Deep expertise in LLMs, GANs, and Computer Vision
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Core Technologies
+### 🎨 Core Technologies
 
 ```mermaid
 mindmap
   root((Tech Stack))
-    Languages
-      Python
-      JavaScript
-      TypeScript
-      Rust
-      C/C++
-      Java
-    Frontend
-      React
-      Next.js
-      Tailwind CSS
-      Streamlit
-    Backend
-      Node.js
-      Express
-      FastAPI
-      Flask
-    Mobile
-      React Native
-      Capacitor
-    Desktop
-      Tauri
-      Electron
     AI/ML
       PyTorch
       TensorFlow
-      LangChain
-      Ollama
-    Databases
-      PostgreSQL
-      MongoDB
-      SQLite
-      Redis
+      YOLOv8
+      GANs
+      GPT/BERT/T5
+      Whisper
+    Languages
+      Python
+      R
+      SQL
+      HTML5
+    Cloud & DevOps
+      AWS
+      Azure
+      Docker
+      Kubernetes
+    Data Science
+      Pandas
+      NumPy
+      Matplotlib
+      Seaborn
+      Tableau
+    Healthcare AI
+      OpenCV
+      Medical Imaging
+      NLP
+      Computer Vision
 ```
 
 </div>
 
-### 🏷️ Technologies I Use
+### 🏷️ Technology Badges
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
-![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FF00?style=for-the-badge&logo=yolo&logoColor=black)
+![GPT](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Professional Journey
 
 <div align="center">
 
-### 📈 Development Timeline
+### 🗓️ Career Timeline
 
 ```mermaid
 timeline
-    title My Development Journey
-    2023 Q1 : Started Learning AI/ML
-           : Built First React App
-           : Joined College CS Program
-    2023 Q2 : Launched Nexoris.io
-           : Developed Aether Connect
-           : Learned Tauri Framework
-    2023 Q3 : Mobile App Development
-           : Cross-platform Testing
-           : Performance Optimization
-    2023 Q4 : Production Deployments
-           : User Feedback Integration
-           : Feature Enhancements
-    2024 Q1 : Global Expansion Plans
-           : Advanced AI Projects
-           : New Framework Learning
+    title My Professional Evolution
+    2022 Q3 : Started CS Journey
+           : Sri Ramakrishna Engineering College
+           : Foundation in Programming
+    2023 Q2 : Data Science Intern
+           : Bumblebee.inc
+           : ETL Pipelines & ML Models
+    2023 Q3 : Nova Project Launch
+           : Learning Management System
+           : NLP & GPT Integration
+    2023 Q4 : Aether Med Startup
+           : Healthcare AI Platform
+           : AR3D Telemedicine
+    2024 Q1 : Advanced AI Projects
+           : Medical Diagnosis System
+           : YOLOv8 & Transformers
+    2024 Q2 : Global Expansion
+           : Atlanta, Georgia
+           : 40% Platform Adoption
+    2024 Q3 : Multilingual AI
+           : Real-time Translation
+           : Whisper & GPT-4
 ```
 
 </div>
 
-<div align="center">
+---
 
-![Anvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anvin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anvin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF)
-
-</div>
+## 🏆 Certifications & Achievements
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anvin&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=8B5CF6&fire=8B5CF6&currStreakNum=6366F1&sideNums=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF)
+### 🎓 Professional Certifications
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🧠 Deep Learning Specialization
+**Coursera**
+- Neural Networks & CNNs
+- RNNs & Optimization
+- Advanced ML Techniques
+
+#### ☁️ AWS ML Specialty
+**Amazon Web Services**
+- Cloud ML Deployment
+- Production Workflows
+- Scalable AI Solutions
+
+</td>
+<td width="50%">
+
+#### 🤖 Google ML Engineer
+**Google Cloud**
+- Production ML Workflows
+- Data Pipelines
+- Enterprise Deployment
+
+#### 🏥 AI for Healthcare
+**Udacity**
+- Medical AI Solutions
+- Healthcare-Specific ML
+- Clinical Applications
+
+</td>
+</tr>
+</table>
+
+### 🏅 Additional Credentials
+
+- **MIT Professional Certificate** in Machine Learning & AI
+- **Student Council President** (2024-2026)
+- **Hackathon Mentor** - Guiding AI/LLM implementations
+- **Workshop Conductor** - NLP technical workshops
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🚀 Featured Projects
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=anvin&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&row=1)
-
-</div>
-
----
-
-## ⚡ Currently Working On
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🚀 Nexoris.io] --> B[🌍 Global Launch]
-    B --> C[🤖 AI Platform]
-    C --> D[📱 Mobile Apps]
-    D --> E[🎯 Australia Expansion]
-    
-    style A fill:#6366F1
-    style B fill:#8B5CF6
-    style C fill:#A855F7
-    style D fill:#C084FC
-    style E fill:#DDD6FE
-```
-
-**Building the future of AI-powered productivity tools**
-
-</div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-### 🏗️ Project Architecture
+### 🏗️ Project Ecosystem
 
 ```mermaid
 graph TB
-    subgraph "AI Platform"
-        A[Aether Connect] --> B[Telemedicine AI]
-        B --> C[AR3D Avatars]
-        C --> D[Diagnostic AI]
+    subgraph "Healthcare AI"
+        A[Aether Med] --> B[AR3D Telemedicine]
+        B --> C[35% Engagement Boost]
+        C --> D[40% Platform Adoption]
     end
     
-    subgraph "Desktop Apps"
-        E[Nexoris Documenter] --> F[Tauri + SQLite]
-        F --> G[Knowledge Graph]
-        G --> H[AI Insights]
+    subgraph "Medical AI"
+        E[Autonomous Diagnosis] --> F[YOLOv8 + Transformers]
+        F --> G[Multi-modal LLM]
+        G --> H[Real-time Analysis]
     end
     
-    subgraph "Data Science"
-        I[Health Surveillance] --> J[ML Predictions]
-        J --> K[Outbreak Detection]
+    subgraph "Productivity AI"
+        I[Intelligent Task Manager] --> J[GPT + RL]
+        J --> K[Automated Scheduling]
+        K --> L[Smart Prompts]
     end
     
-    subgraph "Web Apps"
-        L[ITMS System] --> M[Streamlit Dashboard]
-        M --> N[Track Analysis]
+    subgraph "Communication AI"
+        M[Multilingual Assistant] --> N[Whisper + GPT-4]
+        N --> O[Real-time Translation]
+        O --> P[Voice Integration]
     end
     
-    style A fill:#6366F1
-    style E fill:#8B5CF6
-    style I fill:#A855F7
-    style L fill:#C084FC
-```
-
-### 🎯 Skills Overview
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor': '#6366F1'}}}%%
-quadrantChart
-    title My Skills & Expertise
-    x-axis "Learning" --> "Expert"
-    y-axis "Beginner" --> "Advanced"
-    
-    "Python": [0.9, 0.9]
-    "JavaScript": [0.8, 0.8]
-    "React": [0.8, 0.7]
-    "Rust": [0.6, 0.8]
-    "AI/ML": [0.9, 0.8]
-    "Tauri": [0.7, 0.6]
-    "Streamlit": [0.8, 0.7]
-    "Mobile Dev": [0.7, 0.6]
-    "Data Science": [0.8, 0.7]
-    "System Design": [0.7, 0.6]
+    style A fill:#00D4FF,stroke:#fff,stroke-width:2px
+    style E fill:#FF6B6B,stroke:#fff,stroke-width:2px
+    style I fill:#4ECDC4,stroke:#fff,stroke-width:2px
+    style M fill:#96CEB4,stroke:#fff,stroke-width:2px
 ```
 
 </div>
@@ -258,68 +251,122 @@ quadrantChart
 <tr>
 <td width="50%">
 
-#### 🏥 Aether Connect
-**AI Telemedicine Platform**
+#### 🏥 Aether Med
+**Healthcare AI Startup | Project Manager & Lead Developer**
 
-- 🤖 AI-powered patient-doctor interactions
-- 🎭 AR3D patient avatars
-- 🔍 Diagnostic AI assistance
-- 🔒 Secure telemedicine flows
+- 🎭 **AR3D Telemedicine Platform** - Revolutionary patient interaction
+- 📈 **35% Engagement Boost** - LLM integration results
+- 👥 **20+ Team Leadership** - Cross-functional Agile management
+- 🤝 **Strategic Partnerships** - 40% platform adoption increase
+- 🌍 **Global Impact** - Atlanta, Georgia operations
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat&logo=tensorflow&logoColor=white)
+**Tech Stack:** AR3D, LLMs, Agile, Healthcare APIs
+
+![Healthcare](https://img.shields.io/badge/Healthcare-FF6B6B?style=flat&logo=medical&logoColor=white)
+![AI](https://img.shields.io/badge/AI-00D4FF?style=flat&logo=artificial-intelligence&logoColor=white)
+![Startup](https://img.shields.io/badge/Startup-4ECDC4?style=flat&logo=rocket&logoColor=white)
 
 </td>
 <td width="50%">
 
-#### 📚 Nexoris Documenter
-**Knowledge Management System**
+#### 🧠 Autonomous Medical Diagnosis
+**ML Architect & Deployment Engineer**
 
-- 🖥️ Desktop-first (Tauri + SQLite)
-- 📊 Graph-based insights
-- 🧠 AI-powered connections
-- 📝 PDF integration & flashcards
+- 🔍 **Multi-modal Analysis** - Images, text, and vitals
+- 🎯 **YOLOv8 Integration** - Real-time medical imaging
+- 🤖 **Flamingo LLM** - DeepMind's multi-modal model
+- ⚡ **Real-time Processing** - X-rays, MRIs, CT scans
+- 🏥 **Clinical Deployment** - Production-ready system
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+**Tech Stack:** PyTorch, TensorFlow, OpenCV, Flask/Django
+
+![ML](https://img.shields.io/badge/ML-FF6B00?style=flat&logo=tensorflow&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/CV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Medical](https://img.shields.io/badge/Medical-FF6B6B?style=flat&logo=medical&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-#### 🏥 Smart Health Surveillance
-**Disease Prediction System**
+#### 🎯 Intelligent Task Manager
+**Prompt Designer & NLP Specialist**
 
-- 🔮 ML-powered outbreak prediction
-- 📊 Environmental data analysis
-- 🎯 Real-time health monitoring
-- 📈 Predictive analytics
+- 📅 **Automated Scheduling** - Deadline and priority-based
+- 🧠 **GPT Integration** - Task-specific prompt generation
+- 🔗 **Calendar Integration** - Seamless workflow
+- ⚡ **Reinforcement Learning** - Adaptive optimization
+- 📱 **Cross-platform** - Universal productivity tool
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/ML-FF6B00?style=flat&logo=tensorflow&logoColor=white)
-![Data](https://img.shields.io/badge/Data-4CAF50?style=flat&logo=pandas&logoColor=white)
+**Tech Stack:** OpenAI GPT API, LangChain, AWS Lambda
+
+![Productivity](https://img.shields.io/badge/Productivity-4ECDC4?style=flat&logo=productivity&logoColor=white)
+![GPT](https://img.shields.io/badge/GPT-412991?style=flat&logo=openai&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-00D4FF?style=flat&logo=automation&logoColor=white)
 
 </td>
 <td width="50%">
 
-#### 🚂 ITMS System
-**Railway Track Monitoring**
+#### 🌍 Real-time Multilingual AI
+**Model Trainer & Voice Specialist**
 
-- 📊 Streamlit dashboard
-- 🔍 Anomaly detection
-- 📈 Track geometry analysis
-- 🎯 Real-time visualization
+- 🗣️ **Voice-based Assistant** - Natural communication
+- 🔄 **Real-time Translation** - Instant multilingual support
+- 📝 **Transcription & Summarization** - Comprehensive processing
+- ⚡ **Low Latency** - Production-ready performance
+- 📞 **Twilio Integration** - Voice communication platform
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Analytics](https://img.shields.io/badge/Analytics-2196F3?style=flat&logo=plotly&logoColor=white)
+**Tech Stack:** PyTorch, Whisper API, LangChain, Twilio
+
+![Voice AI](https://img.shields.io/badge/Voice-96CEB4?style=flat&logo=voice&logoColor=white)
+![Translation](https://img.shields.io/badge/Translation-45B7D1?style=flat&logo=translate&logoColor=white)
+![Real-time](https://img.shields.io/badge/Real--time-FF6B6B?style=flat&logo=clock&logoColor=white)
 
 </td>
 </tr>
 </table>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+### 📊 Development Insights
+
+```mermaid
+quadrantChart
+    title My Skills & Expertise Matrix
+    x-axis "Learning" --> "Expert"
+    y-axis "Beginner" --> "Advanced"
+    
+    "Python": [0.95, 0.9]
+    "PyTorch": [0.9, 0.85]
+    "TensorFlow": [0.85, 0.8]
+    "Healthcare AI": [0.9, 0.9]
+    "Prompt Engineering": [0.95, 0.9]
+    "Computer Vision": [0.85, 0.8]
+    "NLP": [0.9, 0.85]
+    "Cloud Deployment": [0.8, 0.75]
+    "Team Leadership": [0.9, 0.85]
+    "Startup Management": [0.85, 0.8]
+```
+
+</div>
+
+<div align="center">
+
+![Anvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anvin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B6B&text_color=FFFFFF&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anvin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8)
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anvin&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B6B&fire=FF6B6B&currStreakNum=00D4FF&sideNums=FF6B6B&currStreakLabel=FF6B6B&sideLabels=FF6B6B&dates=FFFFFF)
+
+</div>
 
 ---
 
@@ -329,34 +376,35 @@ quadrantChart
 
 ```mermaid
 flowchart LR
-    A[💡 Idea] --> B[🚀 Prototype]
-    B --> C[🧪 Test]
-    C --> D[📊 Analyze]
-    D --> E[🔧 Improve]
-    E --> F[📦 Deploy]
-    F --> G[🔄 Iterate]
+    A[💡 Innovation] --> B[🧪 Experimentation]
+    B --> C[📊 Analysis]
+    C --> D[🔧 Optimization]
+    D --> E[🚀 Deployment]
+    E --> F[📈 Impact]
+    F --> G[🔄 Evolution]
     G --> A
     
-    style A fill:#6366F1
-    style B fill:#8B5CF6
-    style C fill:#A855F7
-    style D fill:#C084FC
-    style E fill:#DDD6FE
-    style F fill:#EDE9FE
-    style G fill:#F3F4F6
+    style A fill:#00D4FF,stroke:#fff,stroke-width:2px
+    style B fill:#FF6B6B,stroke:#fff,stroke-width:2px
+    style C fill:#4ECDC4,stroke:#fff,stroke-width:2px
+    style D fill:#96CEB4,stroke:#fff,stroke-width:2px
+    style E fill:#45B7D1,stroke:#fff,stroke-width:2px
+    style F fill:#FFA726,stroke:#fff,stroke-width:2px
+    style G fill:#AB47BC,stroke:#fff,stroke-width:2px
 ```
 
 </div>
 
-- **🛠️ Modular Design** → Building reusable, scalable components
-- **📱 Offline-First** → Creating resilient applications with local storage
-- **🧪 Experiment-Driven** → Rapid prototyping and iterative development
-- **⚖️ Balanced Approach** → Performance and productivity in harmony
-- **📚 Documentation** → Clear code and comprehensive documentation
+- **🧠 AI-First Thinking** → Every solution starts with intelligence
+- **🏥 Healthcare Impact** → Technology that saves lives
+- **⚡ Rapid Prototyping** → Fast iteration, faster results
+- **🌍 Global Perspective** → Building for worldwide impact
+- **🤝 Collaborative Leadership** → Empowering teams to excel
+- **📚 Continuous Learning** → Always evolving with technology
 
 ---
 
-## 🌟 Vision & Values
+## 🌟 Vision & Mission
 
 <div align="center">
 
@@ -364,18 +412,61 @@ flowchart LR
 
 </div>
 
-This philosophy drives both my personal relationships and the projects I build — seeking consistency, clarity, and direction in everything I do.
+This philosophy drives both my personal relationships and the AI systems I build — seeking consistency, clarity, and direction in everything I do. From healthcare AI that provides reliable diagnoses to productivity tools that adapt to user needs, I believe in creating technology that serves as a constant, reliable guide.
 
 ---
 
-## 📫 Let's Connect
+## 🎯 Currently Working On
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-nexoris.io-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nexoris.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anvin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anvin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anvin@example.com)
+```mermaid
+graph LR
+    A[🏥 Aether Med] --> B[🌍 Global Expansion]
+    B --> C[🤖 Advanced AI]
+    C --> D[📱 Mobile Integration]
+    D --> E[🎯 Healthcare Revolution]
+    
+    style A fill:#00D4FF,stroke:#fff,stroke-width:2px
+    style B fill:#FF6B6B,stroke:#fff,stroke-width:2px
+    style C fill:#4ECDC4,stroke:#fff,stroke-width:2px
+    style D fill:#96CEB4,stroke:#fff,stroke-width:2px
+    style E fill:#45B7D1,stroke:#fff,stroke-width:2px
+```
+
+**Revolutionizing healthcare through AI-powered telemedicine and autonomous diagnosis systems**
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=anvin&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&row=2)
+
+</div>
+
+---
+
+## 📫 Let's Connect & Collaborate
+
+<div align="center">
+
+### 🌐 Professional Networks
+
+[![Email](https://img.shields.io/badge/Email-anvinpshibu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anvinpshibu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anvin141-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anvin141)
+[![Phone](https://img.shields.io/badge/Phone-+91%208111867771-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918111867771)
+
+### 🚀 Let's Build the Future Together
+
+**Open to:**
+- 🤝 **Collaborations** on AI/ML projects
+- 💼 **Internship opportunities** in healthcare AI
+- 🎯 **Research partnerships** in medical technology
+- 🌍 **Global projects** with social impact
 
 </div>
 
@@ -383,7 +474,7 @@ This philosophy drives both my personal relationships and the projects I build �
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anvin&theme=radical&hide_border=true&bg_color=0D1117&color=6366F1&line=8B5CF6&point=A855F7&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anvin&theme=radical&hide_border=true&bg_color=0D1117&color=00D4FF&line=FF6B6B&point=4ECDC4&area=true&custom_title=Anvin's%20Contribution%20Activity)
 
 </div>
 
@@ -399,8 +490,16 @@ This philosophy drives both my personal relationships and the projects I build �
 
 <div align="center">
   
-  **🔥 Always building. Always learning. Always pushing boundaries.**
+  **🔥 Building the future of healthcare AI, one algorithm at a time.**
   
-  ![Profile Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&stroke=6366F1&strokeWidth=2)
+  ![Profile Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,8,10&height=120&section=footer&stroke=00D4FF&strokeWidth=3&animation=twinkling)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🌟;Let's+connect+and+build+amazing+things+together!+🚀" alt="Thank you message" />
   
 </div>
