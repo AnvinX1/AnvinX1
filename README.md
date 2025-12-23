@@ -19,7 +19,7 @@
 
 ## 👨‍💻 Professional Summary
 
-I am an **AI/ML Engineer** with a deep focus on **Healthcare Innovation**. Currently leading the technical vision at **Aether Med**, I specialize in building autonomous diagnostic systems, multi-modal LLM applications, and real-time telemedicine platforms. My work bridges the gap between advanced machine learning research and practical, life-saving applications.
+I am an **AI/ML Engineer & Software Developer** with a deep focus on **Healthcare Innovation**. Currently leading the technical vision at **Aether Med & Nexoris Solutions**, I specialize in building autonomous diagnostic systems, multi-modal LLM applications, and real-time telemedicine platforms. My work bridges the gap between advanced machine learning research and practical, life-saving applications.
 
 *   **Core Focus:** Computer Vision, NLP, Healthcare AI, Generative Models.
 *   **Mission:** To democratize access to advanced medical diagnostics through scalable AI solutions.
@@ -86,6 +86,11 @@ I am an **AI/ML Engineer** with a deep focus on **Healthcare Innovation**. Curre
 ---
 
 ## 📈 Experience
+
+### **Co-Founder & CTO** | Nexoris Solutions
+*Present*
+*   Leading technical strategy and software development initiatives.
+*   Overseeing the deployment of scalable software solutions and AI integration.
 
 ### **Founder & Lead Innovator** | Aether Med
 *2023 - Present*
