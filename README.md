@@ -1,126 +1,113 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=40&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Visionary+AI+%26+ML+Engineer;Healthcare+Innovation+Lead;Building+Intelligent+Future+Systems" alt="Typing SVG" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5/QBd2kLBHBq9ol_kP1/giphy.gif" width="100%" height="250" style="object-fit: cover;" alt="Cyber Header"/>
   
-  <h1>Anvin Shibu</h1>
+  <br/>
   
-  <p align="center">
-    <b>AI Specialist | Healthcare Innovator | Global Tech Leader</b><br>
-    <i>"Transforming healthcare through AI, one algorithm at a time."</i>
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=INIT_SYSTEM:+ANVIN_SHIBU;LOADING_PROFILE...;STATUS:+ONLINE;ROLE:+AI_ENGINEER_/_CTO" alt="Typing SVG" />
+  
+  <br/>
 
-  <div align="center">
-    <a href="https://www.linkedin.com/in/anvin141"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:anvinpshibu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://github.com/anvin"><img src="https://img.shields.io/github/followers/anvin?label=Followers&style=for-the-badge&color=2ea44f" alt="Followers"/></a>
-  </div>
+  <a href="https://www.linkedin.com/in/anvin141"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=222222" alt="LinkedIn"/></a>
+  <a href="mailto:anvinpshibu@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-FF00FF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=222222" alt="Email"/></a>
+  <a href="https://github.com/anvin"><img src="https://img.shields.io/github/followers/anvin?label=NET_NODES&style=for-the-badge&color=00FF00&labelColor=222222" alt="Followers"/></a>
 </div>
 
-<br>
+<br/>
 
-## 👨‍💻 Professional Summary
+```bash
+> root@AnvinX1:~/Identity# whoami
+```
+> **Name:** Anvin Shibu
+> **Role:** Co-Founder & CTO @ Nexoris Solutions | Founder @ Aether Med
+> **Mission:** Architecting the intelligent future of healthcare through autonomous systems and generative AI.
+> **Location:** Atlanta, GA [Global Node]
 
-I am an **AI/ML Engineer & Software Developer** with a deep focus on **Healthcare Innovation**. Currently leading the technical vision at **Aether Med & Nexoris Solutions**, I specialize in building autonomous diagnostic systems, multi-modal LLM applications, and real-time telemedicine platforms. My work bridges the gap between advanced machine learning research and practical, life-saving applications.
-
-*   **Core Focus:** Computer Vision, NLP, Healthcare AI, Generative Models.
-*   **Mission:** To democratize access to advanced medical diagnostics through scalable AI solutions.
-*   **Based in:** Atlanta, Georgia (Global Operations).
-
----
-
-## 🛠️ Technical Arsenal
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><b>🤖 AI & Machine Learning</b></td>
-    <td align="center" width="25%"><b>💻 Languages</b></td>
-    <td align="center" width="25%"><b>☁️ Cloud & DevOps</b></td>
-    <td align="center" width="25%"><b>📊 Data Science</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,wandb&perline=4" />
-      <br>PyTorch, TensorFlow, YOLOv8, Transformers, HuggingFace
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,cpp,js,ts&perline=4" />
-      <br>Python, C++, TypeScript, SQL
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes&perline=4" />
-      <br>AWS, Azure, Docker, K8s
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=pandas,numpy,matlab,tableau&perline=4" />
-      <br>Pandas, NumPy, Tableau
-    </td>
-  </tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-### [🏥 Aether Med - AR3D Telemedicine Platform](https://github.com/anvin)
-**Role:** Project Manager & Lead Developer
-> *Revolutionizing patient interaction with AI-driven telemedicine.*
-
-*   **Impact:** Achieved **35% engagement boost** and **40% platform adoption increase** through strategic partnerships.
-*   **Tech:** AR3D, LLMs, Agile Methodologies, Healthcare APIs.
-*   **Key Feature:** Implements real-time patient data analysis to assist doctors during consultations.
-
-### [🧠 Autonomous Medical Diagnosis System](https://github.com/anvin)
-**Role:** ML Architect
-> *Clinical-grade diagnostics using Multi-modal AI.*
-
-*   **Implementation:** Used **YOLOv8** for rapid medical imaging analysis and **Flamingo LLM** for multi-modal reasoning.
-*   **Performance:** Real-time processing of X-rays, MRIs, and CT scans with high diagnostic accuracy.
-*   **Stack:** PyTorch, OpenCV, Flask, Custom Transformer Models.
-
-### [🗣️ Real-time Multilingual Assistant](https://github.com/anvin)
-**Role:** AI Model Specialist
-> *Breaking language barriers in real-time communication.*
-
-*   **Tech:** **Whisper API**, **GPT-4**, Twilio Integration.
-*   **Outcome:** Enabled low-latency, real-time voice translation and transcription for global users.
-
----
-
-## 📈 Experience
-
-### **Co-Founder & CTO** | Nexoris Solutions
-*Present*
-*   Leading technical strategy and software development initiatives.
-*   Overseeing the deployment of scalable software solutions and AI integration.
-
-### **Founder & Lead Innovator** | Aether Med
-*2023 - Present*
-*   Spearheading the development of AI-driven healthcare solutions.
-*   Managing a cross-functional team of 20+ developers and researchers.
-*   Expanding operations globally from Atlanta, Georgia.
-
-### **Data Science Intern** | Bumblebee.inc
-*2023*
-*   Architected ETL pipelines and deployed ML models for production.
-*   Optimized data workflows reducing processing time by 30%.
-
----
-
-## 🏆 Certifications
-
-| Certification | Authority | Focus |
-| :--- | :--- | :--- |
-| **Google ML Engineer** | Google Cloud | Production ML, Data Pipelines |
-| **AWS ML Specialty** | AWS | Cloud Deployment, Scalability |
-| **Deep Learning Specialization** | Coursera | Neural Networks, CNNs, RNNs |
-| **AI for Healthcare** | Udacity | Medical Imaging, Clinical AI |
-
----
+<br/>
 
 <div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=anvin&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&text_color=64748b&icon_color=2563EB&hide=stars" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anvin&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=64748b&langs_count=6" height="150" alt="languages graph" />
-  <br>
-  <br>
-  <p><i>Building the future, one line of code at a time.</i></p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Cyber Divider"/>
+</div>
+
+<br/>
+
+```bash
+> root@AnvinX1:~/Tech_Arsenal# ls -la
+```
+
+| **CORE_SYSTEMS** | **NEURAL_NETS** | **CLOUD_INFRA** | **DATA_MATRIX** |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=python,cpp,ts,rust" /> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,wandb" /> | <img src="https://skillicons.dev/icons?i=aws,azure,docker,k8s" /> | <img src="https://skillicons.dev/icons?i=pandas,numpy,grafana,tableau" /> |
+| **Python, C++, TS, Rust** | **PyTorch, TF, YOLO, LLMs** | **AWS, Azure, Docker** | **Pandas, NumPy** |
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="20" alt="Glitch Line"/>
+</div>
+
+<br/>
+
+## 🔮 PROJECT_MANIFEST
+
+```yaml
+- SYSTEM: Aether Med
+  Role: Founder & Lead Innovator
+  Status: ACTIVE [Scaling]
+  Access: 🔒 Private (Internal Core)
+  Description: "AR3D Telemedicine Platform. Impact: +35% Engagement, +40% Adoption."
+  Tech: [AR3D, LLMs, Healthcare-APIs]
+
+- SYSTEM: Autonomous Diagnostics
+  Role: ML Architect
+  Status: DEPLOYED
+  Access: 🔒 Private (Clinical)
+  Description: "Multi-modal AI diagnosis using YOLOv8 + Flamingo."
+  Tech: [PyTorch, OpenCV, Transformers]
+
+- SYSTEM: Multilingual Neural Link
+  Role: AI Model Specialist
+  Status: OPERATIONAL
+  Access: 🔒 Private Codebase
+  Description: "Real-time voice translate/transcribe system."
+  Tech: [Whisper, GPT-4, Twilio]
+```
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Cyber Divider"/>
+</div>
+
+<br/>
+
+```bash
+> root@AnvinX1:~/Experience_Log# cat history.log
+```
+
+**[PRESENT]** `Co-Founder & CTO @ Nexoris Solutions`
+> Deploying scalable software architectures and leading AI integration strategies.
+
+**[2023-PRESENT]** `Founder @ Aether Med`
+> Orchestrating 20+ dev units. Global operations. Creating next-gen healthcare tech.
+
+**[2023]** `Data Science Intern @ Bumblebee.inc`
+> ETL Pipeline Optimization. Efficiency +30%.
+
+<br/>
+
+```bash
+> root@AnvinX1:~/Certificates# list --verified
+```
+*   🏆 **Google ML Engineer** [Production Systems]
+*   🏆 **AWS ML Specialty** [Cloud Deployment]
+*   🏆 **Deep Learning** [Coursera/Andrew Ng]
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anvin&show_icons=true&theme=gotham&hide_border=true&title_color=00FF99&text_color=00FF99&icon_color=00FF99&bg_color=0D1117" alt="stats"/>
+  <br/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszq/giphy.gif" width="100" />
+  <br/>
+  <code>SYSTEM_STATUS: HIBERNATION_MODE_OFF</code>
 </div>
